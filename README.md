@@ -96,7 +96,10 @@ Ensure that the model file (`my_model.h5`) is placed in the `Models` directory.
 ## Screenshots
 Here are some screenshots of the application:
 
+### Landing Page
 ![Screenshot 1](screenshots/ss1.png)
+
+### Upload Image
 ![Screenshot 2](screenshots/ss2.png)
 ![Screenshot 3](screenshots/ss3.png)
 ![Screenshot 4](screenshots/ss4.png)
